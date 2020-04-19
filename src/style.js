@@ -11,57 +11,58 @@ module.exports = {
       backgroundColor: 'GhostWhite'
     },
     button: {
-      width: '34',
-      height: '34',
+      width: '50',
+      height: '44',
       cursor: 'pointer',
       pointerEvents: 'none',
       outline: 'none',
-      backgroundColor: 'Gainsboro',
+      backgroundColor: 'black',
+      backgroundImage: url('https://i.imgur.com/uBz9rp9.png')
       border: 'solid 1px rgba(255,255,255,1)',
       borderRadius: 6
     }
   },
   stop: {
     hover: {
-      backgroundColor: 'GhostWhite'
+      backgroundColor: 'white'
     },
     button: {
-      width: '34',
-      height: '34',
+      width: '50',
+      height: '44',
       cursor: 'pointer',
       pointerEvents: 'none',
       outline: 'none',
-      backgroundColor: 'Gainsboro',
+      backgroundColor: 'black',
       border: 'solid 1px rgba(255,255,255,1)',
       borderRadius: 6
     }
   },
   pause: {
     hover: {
-      backgroundColor: 'GhostWhite'
+      backgroundColor: 'white'
     },
     button: {
-      width: '34',
-      height: '34',
+      width: '50',
+      height: '44',
       cursor: 'pointer',
       pointerEvents: 'none',
       outline: 'none',
-      backgroundColor: 'Gainsboro',
+      backgroundColor: 'black',
       border: 'solid 1px rgba(255,255,255,1)',
       borderRadius: 6
     }
   },
   resume: {
     hover: {
-      backgroundColor: 'GhostWhite'
+      backgroundColor: 'white'
     },
     button: {
-      width: '34',
-      height: '34',
+      width: '50',
+      height: '44',
       cursor: 'pointer',
       pointerEvents: 'none',
       outline: 'none',
-      backgroundColor: 'Gainsboro',
+      backgroundColor: 'black',
       border: 'solid 1px rgba(255,255,255,1)',
       borderRadius: 6
     }
